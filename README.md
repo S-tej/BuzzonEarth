@@ -1,14 +1,14 @@
-# EV Infrastructure Planning - BuzzOnEarth India Hackathon
+# EV Infrastructure Planning
 
 ## Project Overview
 This project focuses on **Electric Vehicle (EV) Infrastructure Planning** in India, aiming to address the growing adoption of EVs. As India expects to have over 1 million EVs on the road by 2024, with the market projected to grow at a CAGR of 23% from 2021-2030, there is an urgent need to optimize the placement of EV charging stations.
 
 ### Team Members
-- **Ramesh Babu** (22BCS208)
-- **Tanvi Koranne** (22BEC123)
-- **K.Charan Teja Reddy** (22BCS132)
-- **Arun Jatothu** (22BCS113)
-- **Dasari Venkata Sri Sai Akshay Kumar** (22BCS075)
+- M S SAKET SAI 22BCS150
+- M VITHESH KRISHNA 22BCS161
+- V RAJAVAMSHI NATH 2CS264 
+- V SWARAN TEJ 22BCS263
+- V LIKHITH CHOWDARY 22BCS268
 
 ## Problem Statement
 With the rise in EV adoption, there is a critical need for **well-distributed charging stations** to ensure:
@@ -64,6 +64,3 @@ The solution demonstrates a predictive accuracy of **70-80%**, with potential fo
 - **Real-Time Data Integration**: Enhance predictions by incorporating dynamic data.
 - **Advanced Algorithms**: Explore hybrid models to improve accuracy.
 - **User Behavior Analysis**: Predict future demand by analyzing EV driver behavior patterns.
-
-## License
-This project is part of the **BuzzOnEarth India Hackathon**.
